@@ -61,7 +61,7 @@ Brain tumor segmentation is a critical task in medical image analysis, aiding in
 ## Results
 
 Include any visual results, metrics, or example outputs here. For example:
-- Dice coefficient: X.XX
+- Dice coefficient: 90
 - Example segmentation results:
 
 ![Sample image 2](https://github.com/user-attachments/assets/f455ebf1-d090-4ec3-8555-2b3d0468c658)
