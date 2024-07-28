@@ -64,7 +64,8 @@ Include any visual results, metrics, or example outputs here. For example:
 - Dice coefficient: X.XX
 - Example segmentation results:
 
-![Example Segmentation](path/to/example_segmentation.png)
+![Sample image 2](https://github.com/user-attachments/assets/f455ebf1-d090-4ec3-8555-2b3d0468c658)
+
 
 ## Contributing
 
